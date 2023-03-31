@@ -1,21 +1,12 @@
 # 你好！
 
-这里事屑F0, 普通13岁编程人
-
-[![F0r9e's GitHub stats](https://github-readme-stats.vercel.app/api?username=F0r9e&show_icons=true&hide=contribs,prs)](#)
+这里事F0, 13岁编程人
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=F0r9e&layout=compact)](#)
 
-## 社交媒体
-
-+ 抖音: [LBSjun](https://douyin.com/user/MS4wLjABAAAA761wz67ULCRwFYYDM45B3szmfeqKRg74c0KPxaIQVOo)
-+ 抖音: [F0rge](https://douyin.com/user/MS4wLjABAAAAUML18B7oC3lyzUV-3InaQOsskF4_l8E7j7ie_Ff_3ZI)
 + B站: [F0rge](https://space.bilibili.com/1877686494)
 + QQ: [F0rge](https://qm.qq.com/cgi-bin/qm/qr?k=7XY3rxX6fQnuCo0lOGhJlHUJEG7wGRa9&noverify=0)
 + Github: [F0r9e](https://github.com/F0r9e)
-+ Twitter: [XF0rgeX](https://twitter.com/XF0rgeX)
-
-## 咕咕咕
 
 ```
 WWWWWW@=+:+#WWWWWWWWWWWWWWWWWWWWWWWWWWW
