@@ -1,13 +1,3 @@
-# 你好！
-
-这里事F0, 13岁编程人
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=F0r9e&layout=compact)](#)
-
-+ B站: [F0rge](https://space.bilibili.com/1877686494)
-+ QQ: [F0rge](https://qm.qq.com/cgi-bin/qm/qr?k=7XY3rxX6fQnuCo0lOGhJlHUJEG7wGRa9&noverify=0)
-+ Github: [F0r9e](https://github.com/F0r9e)
-
 ```
 WWWWWW@=+:+#WWWWWWWWWWWWWWWWWWWWWWWWWWW
 WWWW*.@WWWWW@::WWWWWWWWWWWWWWWWWWWWWWWW
